@@ -9,8 +9,6 @@ Note: for keyboard layout switching to work in programs running with administrat
 Usage:
 
 CapsLock to change keyboard layout
-
-Not done yet:
 Shift+CapsLock to toggle CapsLock state
 Alt+CapsLock to enable/disable Switchy
 
